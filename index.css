@@ -1,33 +1,29 @@
 body {
-    /*TODO: change?*/
     margin: 0;
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    min-width: 400px;
+    min-width: 580px;
 }
 
 button {
-    /*TODO: change?*/
-    background: #5f9341;
     color: white;
     padding: 10px 20px;
-    border: 1px solid #5f9341;
     font-weight: bold;
 }
 
-#incrementBtn {
-    /*TODO: change?*/
-    background: #5f9341;
-    color: white;
-    padding: 10px 20px;
-    border: 1px solid #5f9341;
+p {
     font-weight: bold;
 }
 
-#main {
-    /*TODO: change?*/
-    width: 100%;
-    height: 100vh;
-    position: relative;
-    overflow: hidden;
+#increment-btn {
+    background: #5f9341;
+    border: 1px solid #5f9341;
 }
+
+#reset-btn {
+    background: #a23131;
+    border: 1px solid #a23131;
+    padding: 10px 32px;
+}
+
+
