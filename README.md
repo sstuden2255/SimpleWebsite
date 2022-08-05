@@ -1,2 +1,2 @@
-# SAAS-Website
+# Simple-Website
 Website project for Salmo
